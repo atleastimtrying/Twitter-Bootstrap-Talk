@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Clever Selectors' })
+  res.render('index', { title: 'Twitter Bootstrap' })
 };
